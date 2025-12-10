@@ -1,4 +1,4 @@
-# Seewo-Script (Seewo智学网自动答题助手)
+# Seewo-Script (希沃品课自动答题助手)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Script-green.svg)
